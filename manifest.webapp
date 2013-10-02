@@ -1,14 +1,14 @@
 {
-   "name":"iBazar",
-   "description":"Clasificados Gratis en Mexico, Compra - Venta, Viajes - Turismo, Bienes Raices, Empleo, Clases - Talleres, Vehiculos, Servicios en iBazar",
+   "name":"Facebook FF",
+   "description":"Wrapper App for Facebook for Firefox OS",
    "icons":{
       "60":"http://inc.latam.classistatic.com/1.1.40/images/ff-60.png",
       "128":"http://inc.latam.classistatic.com/1.1.40/images/ff-128.png"
    },
    "launch_path":"/",
    "developer":{
-      "name":"iBazar",
-      "url":"http://www.ibazar.com.mx"
+      "name":"facebook",
+      "url":"https://www.facebook.com"
    },
-   "default_locale":"es"
+   "default_locale":"en"
 }
