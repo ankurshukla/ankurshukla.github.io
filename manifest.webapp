@@ -5,10 +5,10 @@
       "60":"http://inc.latam.classistatic.com/1.1.40/images/ff-60.png",
       "128":"http://inc.latam.classistatic.com/1.1.40/images/ff-128.png"
    },
-   "launch_path":"/",
+   "launch_path":"https://www.facebook.com",
    "developer":{
       "name":"ankurshukla",
-      "url":"https://www.facebook.com"
+      "url":"https://ankurshukla.github.io"
    },
    "default_locale":"en"
 }
