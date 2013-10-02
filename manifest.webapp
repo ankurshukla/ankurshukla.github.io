@@ -1,0 +1,14 @@
+{
+   "name":"iBazar",
+   "description":"Clasificados Gratis en Mexico, Compra - Venta, Viajes - Turismo, Bienes Raices, Empleo, Clases - Talleres, Vehiculos, Servicios en iBazar",
+   "icons":{
+      "60":"http://inc.latam.classistatic.com/1.1.40/images/ff-60.png",
+      "128":"http://inc.latam.classistatic.com/1.1.40/images/ff-128.png"
+   },
+   "launch_path":"/",
+   "developer":{
+      "name":"iBazar",
+      "url":"http://www.ibazar.com.mx"
+   },
+   "default_locale":"es"
+}
