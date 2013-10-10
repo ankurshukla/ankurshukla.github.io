@@ -1,14 +1,17 @@
 {
-   "name":"Facebook FF",
-   "description":"Wrapper App for Facebook for Firefox OS",
+   "name":"FF MobPlay",
+   "description":"Mobile Playground  for Firefox OS",
    "icons":{
       "60":"http://inc.latam.classistatic.com/1.1.40/images/ff-60.png",
       "128":"http://inc.latam.classistatic.com/1.1.40/images/ff-128.png"
    },
-   "launch_path":"https://www.facebook.com",
+   "launch_path":"/",
    "developer":{
       "name":"ankurshukla",
       "url":"https://ankurshukla.github.io"
+   },
+   "chrome" : {
+      "navigation" : "true"
    },
    "default_locale":"en"
 }
